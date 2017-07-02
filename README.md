@@ -16,6 +16,6 @@ pip install -r requirements.txt
 
 3. Launch tennis.py
 ```bash
-pip install -r requirements.txt
+python tennis.py
 ```
 
