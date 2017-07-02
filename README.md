@@ -1,5 +1,6 @@
 
-<h1> Bootstrap </h1>
+# Bootstrap:
+
 1. Create a credentials.json file with the following content:
 ```json
 {
@@ -7,6 +8,8 @@
     "password":"yourpassword"
 }
 ```
+
 2. Launch pip install -r requirements.txt
+
 3. Launch tennis.py
 
