@@ -2,11 +2,11 @@
 
 import pycurl
 import re
-import urllib
 import time
 from bs4 import BeautifulSoup
 import sys
 import json
+import urllib
 
 try:
     from io import BytesIO
