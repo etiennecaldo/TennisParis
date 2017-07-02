@@ -9,7 +9,13 @@
 }
 ```
 
-2. Launch pip install -r requirements.txt
+2. Launch:
+```bash
+pip install -r requirements.txt
+```
 
 3. Launch tennis.py
+```bash
+pip install -r requirements.txt
+```
 
